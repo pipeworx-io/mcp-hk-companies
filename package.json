@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-hk-companies",
+  "version": "0.1.0",
+  "description": "Hong Kong Companies Registry open data — company name/BR-number search, new registrations, and name changes via data.gov.hk",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "hk-companies"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-hk-companies.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
