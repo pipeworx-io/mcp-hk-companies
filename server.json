@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/hk-companies",
   "title": "Hk Companies",
-  "description": "Hong Kong Companies Registry open data — company/BR-number search, new registrations & name changes",
+  "description": "Hong Kong Companies Registry (香港公司註冊處) — open incorporation/name-change",
   "version": "0.1.0",
   "websiteUrl": "https://pipeworx.io/packs/hk-companies",
   "repository": {
