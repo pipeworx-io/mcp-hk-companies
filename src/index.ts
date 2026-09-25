@@ -636,8 +636,7 @@ function collapse(s: string): string {
   return s.replace(/\s+/g, ' ').trim();
 }
 /**
- * Hong Kong Companies Registry (香港公司註冊處) — open incorporation/name-change
- * feed via data.gov.hk (keyless).
+ * Hong Kong Companies Registry (香港公司註冊處) open data via data.gov.hk (keyless): search companies by name, look up one company's incorporation record, list newly incorporated companies, and track company name changes.
  *
  * SOURCE, VERIFIED LIVE 2026-09-07 (data.gov.hk's own CKAN-style API — the
  * dataset listing page at cr.gov.hk/en/open-data/ is 404 and data.gov.hk's own
