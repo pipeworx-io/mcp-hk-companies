@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/hk-companies",
   "title": "Hk Companies",
   "description": "Hong Kong Companies Registry (香港公司註冊處) open data via data.gov.hk (keyless): search companies by…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/hk-companies",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-hk-companies",
