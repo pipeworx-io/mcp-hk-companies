@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hk-companies",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Hong Kong Companies Registry (香港公司註冊處) open data via data.gov.hk (keyless): search companies by name, look up one company's incorporation record, list newly incorporated companies, and track company name changes.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hk-companies",
     "gatewaySlug": "hk-companies",
-    "sourceHash": "v1-4435652c34dab257195c7bd72a75ed079ef96645e9e1f545e0dab7766b03cd69",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-06845c19dd005e1e262eef2a1b8261cf96d0727e031d25cfeb185afe32344b9b",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
